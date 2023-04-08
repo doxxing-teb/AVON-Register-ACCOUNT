@@ -1,0 +1,15 @@
+/home/kali/Desktop/AVON/bin/Debug/net7.0/AVON
+/home/kali/Desktop/AVON/bin/Debug/net7.0/AVON.deps.json
+/home/kali/Desktop/AVON/bin/Debug/net7.0/AVON.runtimeconfig.json
+/home/kali/Desktop/AVON/bin/Debug/net7.0/AVON.dll
+/home/kali/Desktop/AVON/bin/Debug/net7.0/AVON.pdb
+/home/kali/Desktop/AVON/obj/Debug/net7.0/AVON.csproj.AssemblyReference.cache
+/home/kali/Desktop/AVON/obj/Debug/net7.0/AVON.GeneratedMSBuildEditorConfig.editorconfig
+/home/kali/Desktop/AVON/obj/Debug/net7.0/AVON.AssemblyInfoInputs.cache
+/home/kali/Desktop/AVON/obj/Debug/net7.0/AVON.AssemblyInfo.cs
+/home/kali/Desktop/AVON/obj/Debug/net7.0/AVON.csproj.CoreCompileInputs.cache
+/home/kali/Desktop/AVON/obj/Debug/net7.0/AVON.dll
+/home/kali/Desktop/AVON/obj/Debug/net7.0/refint/AVON.dll
+/home/kali/Desktop/AVON/obj/Debug/net7.0/AVON.pdb
+/home/kali/Desktop/AVON/obj/Debug/net7.0/AVON.genruntimeconfig.cache
+/home/kali/Desktop/AVON/obj/Debug/net7.0/ref/AVON.dll
